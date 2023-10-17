@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thundric</h1>
+<h1 align="center">Hi 👋, I'm ALMIES</h1>
 <h3 align="center">Hello There, Welcome to my profile!</h3>
 
 
